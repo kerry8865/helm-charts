@@ -3,17 +3,17 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-10-03T15:28:21.580138243+08:00"
+    created: "2020-10-03T15:43:26.561669995+08:00"
     description: A Helm chart for Kubernetes
     digest: b90633a971bfda28de853f9fa8a88efe1f7d83d2bd1d99fd0142a8066dbd76f6
     name: mychart
     urls:
-    - https://kerry8865.github.io/helm-charts/mychart-0.1.0.tgz
+    - https://kerry8865.github.io/helm-charts/docs/mychart-0.1.0.tgz
     version: 0.1.0
   tomcat:
   - apiVersion: v1
     appVersion: "7.0"
-    created: "2020-10-03T15:28:21.580660183+08:00"
+    created: "2020-10-03T15:43:26.562191514+08:00"
     description: Deploy a basic tomcat application server with sidecar as web archive
       container
     digest: 04be97a88f0440d075111334cf22126463a85b21f2256d65082ad70512a006a6
@@ -24,6 +24,6 @@ entries:
       name: yahavb
     name: tomcat
     urls:
-    - https://kerry8865.github.io/helm-charts/tomcat-0.4.0.tgz
+    - https://kerry8865.github.io/helm-charts/docs/tomcat-0.4.0.tgz
     version: 0.4.0
-generated: "2020-10-03T15:28:21.579091518+08:00"
+generated: "2020-10-03T15:43:26.560217534+08:00"
