@@ -1,19 +1,17 @@
 apiVersion: v1
 entries:
-  tomcat:
+  mychart:
   - apiVersion: v1
-    appVersion: "7.0"
-    created: "2020-10-03T11:13:48.54283566+08:00"
-    description: Deploy a basic tomcat application server with sidecar as web archive
-      container
-    digest: 8f8ef2688b900b23f6a61b43e6ed548603ef6e1859843fa8841785995ce7c4c6
-    home: https://github.com/yahavb
-    icon: http://tomcat.apache.org/res/images/tomcat.png
+    appVersion: "1.0"
+    created: "2020-10-03T13:38:03.537624736+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7251e5f06a18cecad99e15efe60bf295f98869c7b158e3f75a18445ce2b432db
+    home: https://github.com/kerry8865
     maintainers:
-    - email: ybiran@ananware.systems
-      name: yahavb
-    name: tomcat
+    - email: test@test.com
+      name: eric
+    name: mychart
     urls:
-    - https://github.com/kerry8865/helm-charts/tomcat-0.4.0.tgz
-    version: 0.4.0
-generated: "2020-10-03T11:13:48.542282444+08:00"
+    - https://github.com/kerry8865/helm-charts/docs/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-03T13:38:03.536796668+08:00"
