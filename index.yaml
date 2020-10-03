@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  tomcat:
+  - apiVersion: v1
+    appVersion: "7.0"
+    created: "2020-10-03T11:13:48.54283566+08:00"
+    description: Deploy a basic tomcat application server with sidecar as web archive
+      container
+    digest: 8f8ef2688b900b23f6a61b43e6ed548603ef6e1859843fa8841785995ce7c4c6
+    home: https://github.com/yahavb
+    icon: http://tomcat.apache.org/res/images/tomcat.png
+    maintainers:
+    - email: ybiran@ananware.systems
+      name: yahavb
+    name: tomcat
+    urls:
+    - https://github.com/kerry8865/helm-charts/tomcat-0.4.0.tgz
+    version: 0.4.0
+generated: "2020-10-03T11:13:48.542282444+08:00"
