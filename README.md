@@ -1,1 +1,1 @@
-# helm-repo
+# helm-charts
